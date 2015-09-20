@@ -1,0 +1,21 @@
+{
+  "name": "ls-pad",
+  "version": "0.1.0",
+  "description": "display the nested directory structure pretty output of ls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ls",
+    "directory",
+    "pretty",
+    "project",
+    "structure"
+  ],
+  "author": "Avijit Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "walker": "^1.0.7"
+  }
+}
